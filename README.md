@@ -28,12 +28,19 @@ This tutorial outlines the prerequisites and installation of the open-source hel
 - HeidiSQL
 
 <h2>Installation Steps</h2>
+        
 1.) Creating a Virtual Machine
+
 In Microsoft Azure, we will create a VM and add it to a new Resource Group, titled "osTicket".
-VM Name: osticket-vm
-Image: Windows 10 Pro, version 22H2 - x64 Gen2
-Size: 2 vCPUs, 8 GiB Memory
+
+* VM Name: osticket-vm
+
+* Image: Windows 10 Pro, version 22H2 - x64 Gen2
+
+*  Size: 2 vCPUs, 8 GiB Memory
+
 Check the licensing box and review & create the VM. No changes are needed for management, disks, or networking sections.
+
 <p>
 <img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 
