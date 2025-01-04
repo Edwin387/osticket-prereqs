@@ -42,7 +42,8 @@ In Microsoft Azure, we will create a VM and add it to a new Resource Group, titl
 Check the licensing box and review & create the VM. No changes are needed for management, disks, or networking sections.
 
 <p>
-<img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="![image](https://github.com/user-attachments/assets/95a41bb9-1d38-444a-aaf2-8e2c23a1ad02)"
+        height="80%" width="80%" alt="Disk Sanitization Steps"/>
 
 
 </p>
