@@ -29,20 +29,18 @@ This tutorial outlines the prerequisites and installation of the open-source hel
 
 <h2>Installation Steps</h2>
         
-1.) # Test
+<h3>1.) Creating a Virtual Machine</h3>
 
 In Microsoft Azure, we will create a VM and add it to a new Resource Group, titled "osTicket".
 
-* VM Name: osticket-vm
-
-* Image: Windows 10 Pro, version 22H2 - x64 Gen2
-
-*  Size: 2 vCPUs, 8 GiB Memory
+- **VM Name:** osticket-vm
+- **Image:** Windows 10 Pro, version 22H2 - x64 Gen2
+- **Size:** 2 vCPUs, 8 GiB Memory
 
 Check the licensing box and review & create the VM. No changes are needed for management, disks, or networking sections.
 
 <p>
-<img src=![Alt text](![Alt text](![Screenshot 2025-01-04 155214] height="80%" width="80%" alt="Disk Sanitization Steps"/> 
+<img src="https://i.imgur.com/Bz829jL.png" height="80%" width="80%" alt="Step 1 Lab 3"/> 
 
 </p>
 <p>
