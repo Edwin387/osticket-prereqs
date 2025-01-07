@@ -67,7 +67,7 @@ Check the licensing box and review & create the VM. No changes are needed for ma
 
 - Open **Control Panel** -> **Programs** -> **Turn Windows features on or off**.
 - Install/enable **IIS** with the following features:
-  - **World Wide Web Services** -> **Application Development Features** -> [X] CGI
+  - **Internet Information Services** -> **World Wide Web Services** -> **Application Development Features** -> [X] CGI
 
 <p>
 <img src="https://i.imgur.com/Htr4j9h.png" height="80%" width="80%" alt="Step 1 Lab 3"/>
