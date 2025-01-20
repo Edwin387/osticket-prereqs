@@ -149,7 +149,7 @@ Check the licensing box and review & create the VM. No changes are needed for ma
   - To: `C:\inetpub\wwwroot\osTicket\include\ost-config.php`.
 - Assign Permissions:
   - Disable inheritance -> Remove all permissions.
-  - Add new permissions -> **Everyone** -> **Full control**.
+  - Add new permissions -> **Everyone** -> **Full control** -> **Apply**
 
 ![image](https://github.com/Edwin387/osticket-prereqs/blob/main/shot%2017.PNG?raw=true)
 
