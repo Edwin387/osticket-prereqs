@@ -56,9 +56,8 @@ Check the licensing box and review & create the VM. No changes are needed for ma
 
 - Within the VM, download the `osTicket-Installation-Files.zip` and unzip it to your desktop. The folder should be named `osTicket-Installation-Files`.
 
-<p>
-<img src="https://i.imgur.com/6imV7Hy.png" height="80%" width="80%" alt="Step 1 Lab 3"/>
-</p>
+![image](https://github.com/Edwin387/osticket-prereqs/blob/main/Screenshot%203.PNG?raw=true) 
+
 
 <h3>4.) Install IIS and Enable Required Features</h3>
 
@@ -66,17 +65,11 @@ Check the licensing box and review & create the VM. No changes are needed for ma
 - Install/enable **IIS** with the following features:
   - **Internet Information Services** -> **World Wide Web Services** -> **Application Development Features** -> [X] CGI
 
-<p>
-<img src="https://i.imgur.com/Htr4j9h.png" height="80%" width="80%" alt="Step 1 Lab 3"/>
-</p>
+![image](https://github.com/Edwin387/osticket-prereqs/blob/main/shot%204.PNG?raw=true)
 
-<p>
-<img src="https://i.imgur.com/4Q1PaOl.png" height="80%" width="80%" alt="Step 1 Lab 3"/>
-</p>
+![image](https://github.com/Edwin387/osticket-prereqs/blob/main/Screenshot%201.PNG?raw=true)
 
-<p>
-<img src="https://i.imgur.com/cm20H8J.png" height="80%" width="80%" alt="Step 1 Lab 3"/>
-</p>
+![image](https://github.com/Edwin387/osticket-prereqs/blob/main/Screenshot%202.PNG?raw=true)
 
 <h3>5.) Install Required Components</h3>
 
@@ -84,9 +77,7 @@ Check the licensing box and review & create the VM. No changes are needed for ma
   - Install **PHP Manager for IIS**: `PHPManagerForIIS_V1.5.0.msi`.
   - Install **Rewrite Module**: `rewrite_amd64_en-US.msi`.
  
-<p>
-<img src="https://i.imgur.com/TmRwTh9.png" height="80%" width="80%" alt="Step 1 Lab 3"/>
-</p>
+![image](https://github.com/Edwin387/osticket-prereqs/blob/main/shot%208.PNG?raw=true)
 
 <h3>6.) Setup PHP</h3>
 
