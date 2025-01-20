@@ -49,7 +49,7 @@ Check the licensing box and review & create the VM. No changes are needed for ma
 
 - Log into the VM using **Remote Desktop** with the credentials created during the VM setup. 
 
-![image alt](![image](https://github.com/user-attachments/assets/89a075d3-dbe9-4489-b31a-0f5a5f648919)
+(![image](https://github.com/user-attachments/assets/89a075d3-dbe9-4489-b31a-0f5a5f648919)
 
 
 <h3>3.) Download and Prepare Installation Files</h3>
