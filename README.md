@@ -40,7 +40,7 @@ In Microsoft Azure, we will create a VM and add it to a new Resource Group, titl
 Check the licensing box and review & create the VM. No changes are needed for management, disks, or networking sections.
 
 <p>
-<img src=[[https://github.com/Edwin387/osticket-prereqs/blob/master/img/shot 29.png| height="80%" width="80%" alt=shot 29]] 
+<img src=![alt text](https://github.com/[Edwin387]/[osticket-prereqs]/blob/[branch]/image.jpg?raw=true) height="80%" width="80%" alt=shot 29]] 
 </p> 
 
 <p>
