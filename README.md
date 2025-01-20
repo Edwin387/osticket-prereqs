@@ -40,7 +40,7 @@ In Microsoft Azure, we will create a VM and add it to a new Resource Group, titl
 Check the licensing box and review & create the VM. No changes are needed for management, disks, or networking sections.
 
 <p>
-<img src="![shot 29](https://github.com/user-attachments/assets/ecd62826-92b2-4eff-82b7-3371ad8633e3)" height="80%" width="80%" alt="Step 1 Lab 3"/> 
+<img src="link.to.image" height="80%" width="80%" alt="Step 1 Lab 3"/> 
 </p> 
 
 <p>
