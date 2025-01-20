@@ -41,7 +41,7 @@ Check the licensing box and review & create the VM. No changes are needed for ma
 
 ![image alt](https://github.com/Edwin387/osticket-prereqs/blob/main/shot%2029.PNG?raw=true)
 
-![image alt]
+![image alt](https://github.com/Edwin387/osticket-prereqs/blob/main/shot%2030.PNG?raw=true)
 
 
 
@@ -49,9 +49,8 @@ Check the licensing box and review & create the VM. No changes are needed for ma
 
 - Log into the VM using **Remote Desktop** with the credentials created during the VM setup. 
 
-<p>
-<img src="https://i.imgur.com/8IdvRmZ.png" height="80%" width="80%" alt="Step 1 Lab 3"/>
-</p>
+![image alt](![image](https://github.com/user-attachments/assets/89a075d3-dbe9-4489-b31a-0f5a5f648919)
+
 
 <h3>3.) Download and Prepare Installation Files</h3>
 
