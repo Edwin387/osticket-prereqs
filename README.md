@@ -85,13 +85,9 @@ Check the licensing box and review & create the VM. No changes are needed for ma
 - Unzip `PHP 7.3.8` (`php-7.3.8-nts-Win32-VC15-x86.zip`) into the `C:\PHP` folder.
 - Install `VC_redist.x86.exe`.
 
-<p>
-<img src="https://i.imgur.com/Khwf0Tv.png" height="80%" width="80%" alt="Step 1 Lab 3"/>
-</p>
+![image](https://github.com/Edwin387/osticket-prereqs/blob/main/shot%2032.PNG?raw=true)
 
-<p>
-<img src="https://i.imgur.com/0IRX6FM.png" height="80%" width="80%" alt="Step 1 Lab 3"/>
-</p>
+![image](https://github.com/Edwin387/osticket-prereqs/blob/main/shot%208.PNG?raw=true)
 
 <h3>7.) Install MySQL</h3>
 
@@ -101,9 +97,7 @@ Check the licensing box and review & create the VM. No changes are needed for ma
     - **Standard Configuration**
     - Input a username and password, don't forget this!
 
-<p>
-<img src="https://i.imgur.com/m5NO1HX.png" height="80%" width="80%" alt="Step 1 Lab 3"/>
-</p>
+![image](https://github.com/Edwin387/osticket-prereqs/blob/main/shot%209.PNG?raw=true)
 
 <h3>8.) Configure IIS</h3>
 
@@ -112,13 +106,9 @@ Check the licensing box and review & create the VM. No changes are needed for ma
   - Go to **PHP Manager** -> Register PHP path -> `C:\PHP\php-cgi.exe`.
 - Reload IIS (Stop and Start the server).
 
-<p>
-<img src="https://i.imgur.com/m5NO1HX.png" height="80%" width="80%" alt="Step 1 Lab 3"/>
-</p>
+![image](https://github.com/Edwin387/osticket-prereqs/blob/main/shot%2033.PNG?raw=true)
 
-<p>
-<img src="https://i.imgur.com/OPR6ELG.png" height="80%" width="80%" alt="Step 1 Lab 3"/>
-</p>
+![image](https://github.com/Edwin387/osticket-prereqs/blob/main/shot%2010.PNG?raw=true)
 
 <h3>9.) Install osTicket</h3>
 
@@ -128,13 +118,9 @@ Check the licensing box and review & create the VM. No changes are needed for ma
   - Rename the `upload` folder to `osTicket`.
 - Reload IIS (Stop and Start the server).
 
-<p>
-<img src="https://i.imgur.com/QAGjmly.png" height="80%" width="80%" alt="Step 1 Lab 3"/>
-</p>
+![image](https://github.com/Edwin387/osticket-prereqs/blob/main/shot%2034.PNG?raw=true)
 
-<p>
-<img src="https://i.imgur.com/UNeiP4j.png" height="80%" width="80%" alt="Step 1 Lab 3"/>
-</p>
+![image](https://github.com/Edwin387/osticket-prereqs/blob/main/shot%2012.PNG?raw=true)
 
 <h3>10.) Configure osTicket</h3>
 
@@ -142,13 +128,9 @@ Check the licensing box and review & create the VM. No changes are needed for ma
   - Navigate to **Sites** -> **Default** -> **osTicket**.
   - On the right, click **Browse *:80**.
 
-<p>
-<img src="https://i.imgur.com/Vo85YbB.png" height="80%" width="80%" alt="Step 1 Lab 3"/>
-</p>
+![image](https://github.com/Edwin387/osticket-prereqs/blob/main/shot%2014.PNG?raw=true)
 
-<p>
-<img src="https://i.imgur.com/oM0muFz.png" height="80%" width="80%" alt="Step 1 Lab 3"/>
-</p>
+![image](https://github.com/Edwin387/osticket-prereqs/blob/main/shot%2015.PNG?raw=true)
 
 - Note extensions that are not enabled. Go back to IIS:
   - Navigate to **Sites** -> **Default** -> **osTicket**.
@@ -158,9 +140,7 @@ Check the licensing box and review & create the VM. No changes are needed for ma
     - `php_intl.dll`
     - `php_opcache.dll`
 
-<p>
-<img src="https://i.imgur.com/3w4E5N7.png" height="80%" width="80%" alt="Step 1 Lab 3"/>
-</p>
+![image](https://github.com/Edwin387/osticket-prereqs/blob/main/shot%2016.PNG?raw=true)
 
 <h3>11.) Update Configuration Files</h3>
 
@@ -171,13 +151,9 @@ Check the licensing box and review & create the VM. No changes are needed for ma
   - Disable inheritance -> Remove all permissions.
   - Add new permissions -> **Everyone** -> **Full control**.
 
-<p>
-<img src="https://i.imgur.com/18W6jYt.png" height="80%" width="80%" alt="Step 1 Lab 3"/>
-</p>
+![image](https://github.com/Edwin387/osticket-prereqs/blob/main/shot%2017.PNG?raw=true)
 
-<p>
-<img src="https://i.imgur.com/Gj686F9.png" height="80%" width="80%" alt="Step 1 Lab 3"/>
-</p>
+![image](https://github.com/Edwin387/osticket-prereqs/blob/main/shot%2018.PNG?raw=true)
 
 <h3>12.) Complete osTicket Setup</h3>
 
@@ -185,9 +161,7 @@ Check the licensing box and review & create the VM. No changes are needed for ma
   - Set **Helpdesk Name**.
   - Set **Default email** (receives emails from customers).
 
-<p>
-<img src="https://i.imgur.com/lFfXfPa.png" height="80%" width="80%" alt="Step 1 Lab 3"/>
-</p>
+![image](https://github.com/Edwin387/osticket-prereqs/blob/main/shot%2019.PNG?raw=true)
 
 <h3>13.) Install HeidiSQL and Configure Database</h3>
 
@@ -197,13 +171,9 @@ Check the licensing box and review & create the VM. No changes are needed for ma
   - Connect to the session.
   - Create a database named `osTicket`.
 
-<p>
-<img src="https://i.imgur.com/3MktR5j.png" height="80%" width="80%" alt="Step 1 Lab 3"/>
-</p>
+![image](https://github.com/Edwin387/osticket-prereqs/blob/main/shot%2020.PNG?raw=true)
 
-<p>
-<img src="https://i.imgur.com/45BnPbc.png" height="80%" width="80%" alt="Step 1 Lab 3"/>
-</p>
+![image](https://github.com/Edwin387/osticket-prereqs/blob/main/shot%2021.PNG?raw=true)
 
 <h3>14.) Finalize osTicket Installation</h3>
 
@@ -213,17 +183,13 @@ Check the licensing box and review & create the VM. No changes are needed for ma
   - **MySQL Password:** root  
 - Click **Install Now!**
 
-<p>
-<img src="https://i.imgur.com/niqOpoY.png" height="80%" width="80%" alt="Step 1 Lab 3"/>
-</p>
+![image](https://github.com/Edwin387/osticket-prereqs/blob/main/68747470733a2f2f692e696d6775722e636f6d2f6e69714f706f592e706e67%20(2).png?raw=true)
 
 <h3>15.) Verify Installation</h3>
 
 - Access your help desk login page: `http://localhost/osTicket/scp/login.php`.
 
-<p>
-<img src="https://i.imgur.com/fsadUTz.png" height="80%" width="80%" alt="Step 1 Lab 3"/>
-</p>
+![image](https://github.com/Edwin387/osticket-prereqs/blob/main/shot%2035.PNG?raw=true)
 
 <h2>Conclusion</h2>
 
