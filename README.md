@@ -41,15 +41,9 @@ Check the licensing box and review & create the VM. No changes are needed for ma
 
 ![image alt](https://github.com/Edwin387/osticket-prereqs/blob/main/shot%2029.PNG?raw=true)
 
+![image alt]
 
 
-<p>
-<img src=! height="80%" width="80%" alt=shot 29]] 
-</p> 
-
-<p>
-<img src="https://i.imgur.com/rHmcRf3.png" height="80%" width="80%" alt="Step 1 Lab 2"/>
-</p>
 
 <h3>2.) Accessing the Virtual Machine</h3>
 
