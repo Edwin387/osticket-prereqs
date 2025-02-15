@@ -54,7 +54,8 @@ Check the licensing box and review & create the VM. No changes are needed for ma
 
 <h3>3.) Download and Prepare Installation Files</h3>
 
-- Within the VM, download the `osTicket-Installation-Files.zip` and unzip it to your desktop. The folder should be named `osTicket-Installation-Files`.
+- Within the VM, download the `osTicket-Installation-Files.zip` and unzip it to your desktop.
+- The folder should be named `osTicket-Installation-Files`.
 
 ![image](https://github.com/Edwin387/osticket-prereqs/blob/main/Screenshot%203.PNG?raw=true) 
 
