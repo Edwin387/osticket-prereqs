@@ -117,7 +117,6 @@ Check the licensing box and review & create the VM. No changes are needed for ma
   - Unzip `osTicket-v1.15.8.zip`.
   - Copy the `upload` folder into `C:\inetpub\wwwroot`.
   - Rename the `upload` folder to `osTicket`.
-- Reload IIS (Stop and Start the server).
 
 ![image](https://github.com/Edwin387/osticket-prereqs/blob/main/shot%2034.PNG?raw=true)
 
