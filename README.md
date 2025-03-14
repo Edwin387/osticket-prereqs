@@ -147,7 +147,7 @@ Check the licensing box and review & create the VM. No changes are needed for ma
 - Rename `ost-config.php`:
   - From: `C:\inetpub\wwwroot\osTicket\include\ost-sampleconfig.php`
   - To: `C:\inetpub\wwwroot\osTicket\include\ost-config.php`.
-- Assign Permissions:
+- Assign Permissions by clicking on `properties` on ost-config.php -> click on security -> click on advanced security.
   - Disable inheritance -> Remove all permissions.
   - Add new permissions -> **Everyone** -> **Full control** -> **Apply**
 
