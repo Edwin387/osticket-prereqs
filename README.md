@@ -37,7 +37,7 @@ In Microsoft Azure, we will create a VM and add it to a new Resource Group, titl
 - **Image:** Windows 10 Pro, version 22H2 - x64 Gen2
 - **Size:** 2 vCPUs, 8 GiB Memory
 
-Check the licensing box and review & create the VM. No changes are needed for management, disks, or networking sections.
+Check the licensing box, review the VM, and create it. No changes are needed for the management, disks, or networking sections.
 
 ![image alt](https://github.com/Edwin387/osticket-prereqs/blob/main/shot%2029.PNG?raw=true)
 
